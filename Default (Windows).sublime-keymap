@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+shift+alt+t"], "command": "reopen_last_file" },
+	{ "keys": ["ctrl+shift+a+t"], "command": "expand_selection", "args": {"to": "tag"} },
+	{ "keys": ["ctrl+shift+alt+a"], "command": "plain_tasks_archive","context": [{ "key": "selector", "operator": "equal", "operand": "text.todo" }] },
+	{ "keys": ["ctrl+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["ctrl+shift+j"], "command": "join_lines" }
+]

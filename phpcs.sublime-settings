@@ -1,0 +1,25 @@
+{
+	"phpcs_executable_path": "c:\\web-libs\\composer-vendor\\bin\\phpcs.bat",
+	"phpcs_sniffer_run": true,
+	"phpcs_show_errors_on_save": true,
+	"phpcs_outline_for_errors": true,
+	"phpcs_additional_args": {
+		"--standard": "PSR2",
+		"-n": ""
+	},
+	"phpmd_run": true,
+	"phpmd_executable_path": "c:\\web-libs\\composer-vendor\\bin\\phpmd.bat",
+	"phpmd_additional_args": {
+        "codesize,unusedcode,design": "",
+        // "codesize,unusedcode,names,design,controversial": ""
+    },
+	"extensions_to_execute": [
+		"php",
+		"module",
+		"inc",
+		"install",
+	],
+	"extensions_to_blacklist": [
+		"tpl.php",
+	],
+}

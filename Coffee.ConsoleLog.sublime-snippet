@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+console.log ${1:'ping'}
+]]></content>
+	<tabTrigger>cl</tabTrigger>
+	<scope>source.coffee</scope>
+</snippet>

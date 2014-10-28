@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+outline: #${1:f00} solid 1px
+]]></content>
+	<tabTrigger>out</tabTrigger>
+	<scope>source.sass,source.less</scope>
+</snippet>
