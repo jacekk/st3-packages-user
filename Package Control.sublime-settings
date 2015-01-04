@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -6,6 +14,7 @@
 		"Arnold Clark Snippets for Ruby",
 		"Better CoffeeScript",
 		"Bootstrap 3 Snippets",
+		"C++ Snippets",
 		"CodeFormatter",
 		"DocBlockr",
 		"Drupal",
@@ -19,7 +28,6 @@
 		"JSHint",
 		"LESS",
 		"LiveReload",
-		"Markdown HTML Preview",
 		"Markdown Preview",
 		"Nettuts+ Fetch",
 		"Package Control",
