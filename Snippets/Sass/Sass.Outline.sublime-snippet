@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-outline: #${1:f00} solid 1px
+outline: #${1:f00} solid 4px
 ]]></content>
 	<tabTrigger>out</tabTrigger>
 	<scope>source.sass,source.less</scope>
