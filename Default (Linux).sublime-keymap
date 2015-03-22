@@ -1,4 +1,6 @@
 [
+	{ "keys": ["alt+shift+["], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["alt+shift+]"], "command": "select_lines", "args": {"forward": true} },
 	{ "keys": ["shift+alt+d"], "command": "set_setting", "args":
 		{
 			"setting": "draw_white_space",
