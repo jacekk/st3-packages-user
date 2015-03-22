@@ -2,11 +2,6 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -22,6 +17,8 @@
 		"EditorConfig",
 		"Emmet",
 		"Gist",
+		"Git",
+		"GitGutter",
 		"GotoDocumentation",
 		"Http Requester",
 		"Indent XML",
@@ -43,6 +40,7 @@
 		"Sass",
 		"Stupid Indent",
 		"SublimeCodeIntel",
+		"SublimeEnhancedUtilitiesSet",
 		"SublimeLinter",
 		"Theme - Phoenix",
 		"TrailingSpaces"
