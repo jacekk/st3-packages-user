@@ -13,4 +13,5 @@
 			"value": "selection"
 		}
 	},
+	{ "keys": ["ctrl+alt+o"], "command": "prompt_select_workspace" },
 ]
