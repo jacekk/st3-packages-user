@@ -1,10 +1,12 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"AndyPHP",
 		"AngularJS",
 		"AngularJS (CoffeeScript)",
@@ -16,7 +18,9 @@
 		"Bootstrap 3 Jade Snippets",
 		"Bootstrap 3 Snippets",
 		"C++ Snippets",
+		"Case Conversion",
 		"CodeFormatter",
+		"Cucumber",
 		"DocBlockr",
 		"Drupal",
 		"EditorConfig",
@@ -35,6 +39,7 @@
 		"Nettuts+ Fetch",
 		"Package Control",
 		"Package Syncing",
+		"PHP Companion",
 		"PHP Completions Kit",
 		"PHP Haml",
 		"PHP-Twig",
@@ -42,6 +47,7 @@
 		"PHPIntel",
 		"PHPUnit",
 		"PlainTasks",
+		"Pretty JSON",
 		"ReactJS Snippets",
 		"Sass",
 		"SideBarEnhancements",
