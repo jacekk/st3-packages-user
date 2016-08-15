@@ -5,8 +5,17 @@
 	],
 	"JSON":
 	[
+		".bowerrc",
 		".csslintrc",
+		".eslintrc",
 		".jscsrc",
-		".jshintrc"
+		".jshintrc",
+		"geojson"
+	],
+	"Shell-Unix-Generic":
+	[
+		"bash",
+		"sh",
+		"zsh"
 	]
 }

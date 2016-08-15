@@ -12,7 +12,7 @@
 		"CVS",
 		".sass-cache"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -39,11 +39,17 @@
 		"R",
 		"RestructuredText",
 		"Scala",
-		"ShellScript",
 		"SublimeEnhancedUtilitiesSet",
 		"TCL",
 		"Textile",
+		"TypeScript",
+		"TypescriptCompletion",
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"tab_completion": true
 }
