@@ -65,6 +65,7 @@
 		"Theme - Phoenix",
 		"TrailingSpaces",
 		"TypeScript",
-		"TypescriptCompletion"
+		"TypescriptCompletion",
+		"Vue Syntax Highlight"
 	]
 }
