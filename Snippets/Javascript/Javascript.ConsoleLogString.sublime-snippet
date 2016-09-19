@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-console.log(${1:this});
+console.log('${1:ping}');
 ]]></content>
-	<tabTrigger>dd</tabTrigger>
+	<tabTrigger>dds</tabTrigger>
 	<scope>source.js,source.ts</scope>
 </snippet>
