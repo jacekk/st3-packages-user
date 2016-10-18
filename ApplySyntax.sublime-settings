@@ -10,5 +10,9 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
+        {
+            "syntax": "TypeScript",
+            "extensions": ["tsx"]
+        }
     ]
 }

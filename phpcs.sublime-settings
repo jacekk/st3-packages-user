@@ -4,7 +4,7 @@
 	"phpcs_show_errors_on_save": false,
 	"phpcs_outline_for_errors": true,
 	"phpcs_additional_args": {
-		"--standard": "PSR4",
+		"--standard": "PSR2",
 		"-n": ""
 	},
 	"phpmd_run": true,
